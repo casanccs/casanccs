@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Anime Streaming Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I am currently learning **React Native** and Web Scraping with Python using "Beautiful Soup"
 
 - 👨‍💻 All of my projects are available at [https://github.com/zirolet/Portfolio](https://github.com/zirolet/Portfolio)
 
-- 💬 Ask me about **Pygame, Python, and Django**
+- 💬 Python SKills: **Django, Pygame, Numpy, Pandas, and various Django related packages like Django Channels, djangoallauth, etc.**
 
-- 📫 How to reach me **casanccs@gmail.com**
+- 📫 Reach me at **casanccs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
