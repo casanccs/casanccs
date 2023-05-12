@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on **Anime Streaming Website**
 
-- 🌱 I am currently learning **React Native** and Web Scraping with Python using "Beautiful Soup"
 
 - 👨‍💻 All of my projects are available at [https://github.com/zirolet/Portfolio](https://github.com/zirolet/Portfolio)
 
-- 💬 Python SKills: **Django, Pygame, Numpy, Pandas, and various Django related packages like Django Channels, djangoallauth, etc.**
+- Python SKills: **Django, Pygame, Numpy, Pandas, Scrapy and various Django related packages like Django Channels, djangoallauth, etc.**
+- JavaScript Skills: **React.js, Fetch API, WebRTC, WebSockets**
+- Misc. Skills: Docker, PostgreSQL, HTML, CSS
 
 - 📫 Reach me at **casanccs@gmail.com**
 
