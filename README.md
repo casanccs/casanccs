@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cristian Sanchez</h1>
 <h3 align="center">A passionate Python Developer looking for a Backend Developer Position</h3>
 
-- 🔭 I’m currently working on **Anime Streaming Website**
+- 🔭 I’m currently working on **Table Tennis VR Multiplayer Game** using **Godot**
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/zirolet/Portfolio](https://github.com/zirolet/Portfolio)
 
 - Python SKills: **Django, Pygame, Numpy, Pandas, Scrapy and various Django related packages like Django Channels, djangoallauth, etc.**
-- JavaScript Skills: **React.js, Fetch API, WebRTC, WebSockets**
-- Misc. Skills: Docker, PostgreSQL, HTML, CSS
+- JavaScript Skills: **React.js, React Native, Fetch API, WebRTC, WebSockets**
+- Misc. Skills: **Docker, PostgreSQL, HTML, CSS, AWS, Terraform**
 
 - 📫 Reach me at **casanccs@gmail.com**
 
