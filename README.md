@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cristian Sanchez</h1>
-<h3 align="center">A passionate Python Developer looking for a Backend Developer Position</h3>
+<h3 align="center">A passionate Python Developer looking for a Full-Stack Developer Position</h3>
 
-- 🔭 I’m currently working on **Table Tennis VR Multiplayer Game** using **Godot**
+- 🔭 I’m currently working on my Startup, **Tindeggle**, with 10 other people using **React, React Native, Express.js,** and a bunch of other DevOps tools!
 
 
 - Python SKills: **Django, Pygame, Numpy, Pandas, Scrapy and various Django related packages like Django Channels, djangoallauth, etc.**
 - JavaScript Skills: **React.js, React Native, Fetch API, WebRTC, WebSockets**
-- Misc. Skills: **Docker, PostgreSQL, HTML, CSS, AWS, Terraform**
+- Misc. Skills: **Github Actions, Docker, PostgreSQL, HTML, CSS, AWS, Terraform, Kubernetes, MongoDB, Prometheus, and Grafana**
 
 - 📫 Reach me at **casanccs@gmail.com**
 
